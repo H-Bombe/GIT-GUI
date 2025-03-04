@@ -1,1 +1,1 @@
-void askname(char *first, char *last);/*YEP*/
+void askname(char *first, char *last);
